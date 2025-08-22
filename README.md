@@ -95,19 +95,6 @@ jobs:
 
 ### 👑 Main Developer
 
-<div align="center">
-  <img src="https://i.ibb.co/Y7L525Xh/Manul-Ofc-X.jpg" width="160" style="border-radius: 15px;" />
-  <br><br>
-  <strong>Manul Official</strong><br><br>
-
-  <a href="https://youtube.com/@ManulOfficialTech">
-    <img src="https://img.shields.io/badge/YouTube-Manul%20Official-red?style=for-the-badge&logo=youtube" />
-  </a>
-  <a href="https://wa.me/94742274855">
-    <img src="https://img.shields.io/badge/WhatsApp-Chat%20Now-25D366?style=for-the-badge&logo=whatsapp" />
-  </a>
-</div>
-
 ---
 
 ### 💎 Special Thanks To
