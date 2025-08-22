@@ -7,5 +7,5 @@ function convertToBool(text, fault = 'true') {
 module.exports = {
 SESSION_ID: process.env.SESSION_ID || '9VIHxT7S#AAjNCJqH5RS31yCKF73VnImJm9CXOLtGWP3NJYnL-Ew,
 PORT: process.env.PORT || '3000',
-MONGODB: process.env.MONGODB || 'put_your_mongodb_url' // අනිවාරෙන් Mongodb Url එකක් ඕනි දන්නෙ නැත්නම් මගෙ වීඩියෝ එක බලලා හදාගන්න.🔥
+MONGODB: process.env.MONGODB || 'mongodb://mongo:LQKsGHlAcVyEHpAiVLcSUGmGMdIdjIaD@interchange.proxy.rlwy.net:36972'
 };
