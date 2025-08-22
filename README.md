@@ -87,56 +87,7 @@ jobs:
 | Downloader Menu.📥              | ✅     |
 | Fun And Useful Menu.🥳              | ✅     |
 | News Menu.📰              | ✅     |
-| Settings With Antidelete.😻              | ✅     |
-
----
-
-## 👨‍💻 Developer & Credits
-
-### 👑 Main Developer
-
----
-
-### 💎 Special Thanks To
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center">
-  <img src="https://i.ibb.co/KcK5jD2P/Manul-Ofc-X.jpg" width="100"><br>
-  <b>Mr Rashmika</b><br><i>🤖Code Helper 🤍</i>
-</td>
-
-<td align="center">
-  <img src="https://i.ibb.co/fzq32SfQ/Manul-Ofc-X.jpg" width="100"><br>
-  <b>Dinu Tech Info</b><br><i>🤖Code Helper 🤍</i>
-</td>
-
-<td align="center">
-  <img src="https://i.ibb.co/RpnpZg71/Manul-Ofc-X.jpg" width="100"><br>
-  <b>King Anjana Bbh</b><br><i>😻Other All Helper 🤍</i>
-</td>
-
-<td align="center">
-  <img src="https://i.ibb.co/LBjyW2k/IMG-20250524-WA0003.jpg" width="100"><br>
-  <b>Dasun Max</b><br><i>😻Web Developer 🤍</i>
-</td>
-
-<td align="center">
-  <img src="https://i.ibb.co/MDdrvfFc/Manul-Ofc-X.jpg" width="100"><br>
-  <b>Vajira MD</b><br><i>🤖Code Helper 🤍</i>
-</td>
-
-<td align="center">
-  <img src="https://i.ibb.co/GbnZ13V/Manul-Ofc-X.jpg" width="100"><br>
-  <b>Sahirya Nethmi</b><br><i>🎙️Voice Helper 🤍</i>
-</td>
-</tr>
-</table>
-
-</div>
-
+| Settings With Antidelete.😻              | ✅    |
 ---
 
 ## ❤️ Final Words
