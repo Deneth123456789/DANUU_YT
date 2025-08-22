@@ -1,4 +1,4 @@
-<h1 align="center" style="font-family: 'Ribeye', cursive;">🧚‍♂️ Manu-MD WA Bot V8 🤍</h1>
+<h1 align="center" style="font-family: 'Ribeye', cursive;">🧚‍♂️ DANUU-MD WA Bot 🤍</h1>
 <p align="center" style="font-size: 18px;">✨ The Ultimate WhatsApp Multi-Device Bot with Full Button Support ✨</p>
 
 <div align="center">
@@ -9,7 +9,7 @@
 
 <div align="center">
   <a href="https://youtube.com/@ManulOfficialTech">
-    <img src="https://manul-official-new-api-site.vercel.app/manu-md" alt="Manu-MD WA Bot" width="700">
+    <img src="https://manul-official-new-api-site.vercel.app/manu-md" alt="DANUU-MD WA Bot" width="700">
   </a>
 </div>
 
@@ -154,9 +154,9 @@ jobs:
 
 ## ❤️ Final Words
 
-> If you ❤️ **Manu-MD Bot**, don't forget to:
+> If you ❤️ **DANUU-MD Bot**, don't forget to:
 - ⭐ Star this repo  
 - 🍴 Fork it  
 - 📢 Share with your friends  
 
-Crafted with dedication by **Manul Official**
+Crafted with dedication by ** 𝐃𝐞𝐧𝐞𝐭𝐡 Official**
